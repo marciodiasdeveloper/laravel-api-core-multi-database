@@ -8,5 +8,5 @@
 ## Get started fast and easy! Official API!
 
 <p align="left">
-  <a href="https://docs.orkestral.io/venom">Full Documentation</a>
+  <a href="#">Full Documentation</a>
 </p>
