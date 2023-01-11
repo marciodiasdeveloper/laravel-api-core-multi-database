@@ -10,3 +10,9 @@
 <p align="left">
   <a href="#">Full Documentation</a>
 </p>
+
+## Run tests
+
+`
+php artisan test
+`
