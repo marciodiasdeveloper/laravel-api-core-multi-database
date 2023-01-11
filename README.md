@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1>Laravel - API-CORE Multi Database 🌱</h1>
+  <h1>Laravel - CORE Multi Database 🌱</h1>
   <strong>WebService Multi Tenant Database</strong>
 </div>
 <br>
