@@ -29,5 +29,6 @@
 
 ## (macOS) - Brew php versions
 
-brew unlink php@7.4
-brew link php@8.1 --force --overwrite
+`brew unlink php@7.4`
+
+`brew link php@8.1 --force --overwrite`
